@@ -1,6 +1,8 @@
-# latihan_responsi
 
-A new Flutter project.
+# NAMA : MOH YUSRIL PRAYOGA
+# NIM  : 124210006
+
+## Latihan Responsi
 
 ## Getting Started
 
